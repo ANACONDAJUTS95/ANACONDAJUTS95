@@ -6,8 +6,8 @@
 
 *Cavite, Philippines — currently leveling up at [Hytel](https://hytel.io)*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anthonsepacio)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anthonsepacio@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ace-s95/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:acesepacio@gmail.com)
 
 </div>
 
@@ -79,10 +79,9 @@ My take: AI is a tool for the curious. Used well, it collapses the distance betw
 
 <div align="center">
 
-![Anthon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANACONDAJUTS95&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+[![Anthon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANACONDAJUTS95)](https://github.com/ANACONDAJUTS95/github-readme-stats)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANACONDAJUTS95&layout=compact&theme=github_dark&hide_border=true)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANACONDAJUTS95)](https://github.com/ANACONDAJUTS95/github-readme-stats)
 </div>
 
 ---
