@@ -79,9 +79,10 @@ My take: AI is a tool for the curious. Used well, it collapses the distance betw
 
 <div align="center">
 
-[![Anthon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANACONDAJUTS95)](https://github.com/ANACONDAJUTS95/github-readme-stats)
-&nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANACONDAJUTS95)](https://github.com/ANACONDAJUTS95/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ANACONDAJUTS95&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ANACONDAJUTS95&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
