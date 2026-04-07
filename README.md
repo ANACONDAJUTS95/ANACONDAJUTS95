@@ -36,7 +36,7 @@ My take: AI is a tool for the curious. Used well, it collapses the distance betw
 
 **What I'm working with:**
 
-<div align="center">
+<div align="left">
 
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20(Anthropic)-191919?style=flat&logo=anthropic&logoColor=white)
@@ -51,7 +51,7 @@ My take: AI is a tool for the curious. Used well, it collapses the distance betw
 
 ## stack
 
-<div align="center">
+<div align="left">
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
