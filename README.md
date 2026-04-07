@@ -75,9 +75,7 @@ My take: AI is a tool for the curious. Used well, it collapses the distance betw
 
 ---
 
-## github stats
-
-<div align="left">
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ANACONDAJUTS95&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
